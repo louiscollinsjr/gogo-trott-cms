@@ -31,9 +31,11 @@ params:
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
+  - title: Cars for Sale
     url: /
-  - title: Pricing
+  - title: Value my Car
+    url: /
+  - title: Contact Us
     url: /
   # - title: Dropdown
   #   sublinks:
@@ -45,7 +47,7 @@ params:
   #     url: /
   # - title: Log in
   #   url: /
-  - title: Get started
+  - title: Sell My Car
     url: /
     button: true
   # sidebar:
