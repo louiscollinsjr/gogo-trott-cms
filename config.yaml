@@ -34,9 +34,9 @@ params:
   - title: Cars for Sale
     url: /
   - title: Value my Car
-    url: /
+    url: /value
   - title: Contact Us
-    url: /
+    url: /contact
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
