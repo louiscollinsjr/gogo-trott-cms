@@ -45,7 +45,7 @@ params:
   #     url: /
   # - title: Log in
   #   url: /
-  - title: Get Started
+  - title: Get started
     url: /
     button: true
   # sidebar:
